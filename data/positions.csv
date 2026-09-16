@@ -1,4 +1,4 @@
 ﻿position_id,market,code,name,entry_price,atr_entry,hard_stop_price,highest_price,last_milestone,last_price,last_n_low,status,entry_date
 0853,KR,095720,95720,1277.0,47.7,1205.45,1286.0,0,1280.0,1249.0,closed_manual,2026-08-28
 5931,KR,094280,94280,12200.0,125.0,12012.5,12200.0,0,12130.0,11990.0,closed_manual,2026-08-31
-0942,KR,105630,105630,9100.0,279.0,8681.5,9260.0,0,8970.0,8850.0,stop_hit,2026-09-01
+0942,KR,105630,105630,9100.0,279.0,8681.5,9260.0,0,8950.0,8850.0,stop_hit,2026-09-01

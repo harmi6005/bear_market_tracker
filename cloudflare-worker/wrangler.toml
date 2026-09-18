@@ -1,7 +1,0 @@
-name = "high5-telegram-webhook"
-main = "index.js"
-compatibility_date = "2024-09-01"
-
-# GITHUB_PAT, GITHUB_OWNER, GITHUB_REPO, ALLOWED_CHAT_ID는
-# 여기 파일에 적지 말고 반드시 `wrangler secret put <이름>` 명령으로 등록할 것.
-# (이 파일은 git에 커밋해도 되는 값만 담는 용도)
